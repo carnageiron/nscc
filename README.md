@@ -3,4 +3,4 @@
  
 Login           |  Register
 :-------------------------:|:-------------------------:
-![Sample](https://github.com/carnageiron/nscc/main/screenshots/login.png)  |  ![Sample](https://github.com/carnageiron/nscc/main/screenshots/register.png)
+![Sample](https://github.com/carnageiron/nscc/main/screenshot/login.png)  |  ![Sample](https://github.com/carnageiron/nscc/main/screenshot/register.png)
